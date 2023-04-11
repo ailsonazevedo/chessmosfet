@@ -12,6 +12,37 @@
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
+## 🤝 Colaboradores
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/61508532?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Ailson Azevedo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/61812126?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <sub>
+          <b>Alisson Azevedo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/48539986?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Juan Leal</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
@@ -43,39 +74,6 @@ Para usar chessmosfet, siga estas etapas:
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61508532?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
-          <b>Ailson Azevedo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61812126?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
-        <sub>
-          <b>Alisson Azevedo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/48539986?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Juan Leal</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 ## 📝 Licença
